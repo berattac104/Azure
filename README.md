@@ -1,9 +1,9 @@
-# Azure
+# Set Up an Azure Virtual Machine with a Free Account
 
 Cloud Computing Assignment
 Azure VM, IIS Web Server & SQL Server Express Deployment
 Student: Mehmet Berat TAC
-Course: Cloud Computing / Azure Fundamentals
+Course: VIT-9 / Week-9 (Cloud Computing / Azure Fundamentals)
 Date: 21/11/2025
 
 In this assignment, a complete cloud environment was deployed and configured on Microsoft Azure.
