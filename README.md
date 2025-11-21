@@ -9,6 +9,7 @@ Date: 21/11/2025
 In this assignment, a complete cloud environment was deployed and configured on Microsoft Azure.
 A resource group (MBT-Team2-RG) and a Windows Server virtual machine (MBT-Team2-VM) were successfully created.
 
+![Azure Serial Console Fix](images/MBT_Team2_VM.png)
 MBT_Team2_VM
 
 Several core cloud administration tasks were performed:
