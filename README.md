@@ -9,13 +9,12 @@ Date: 21/11/2025
 In this assignment, a complete cloud environment was deployed and configured on Microsoft Azure.
 A resource group (MBT-Team2-RG) and a Windows Server virtual machine (MBT-Team2-VM) were successfully created.
 
-![Azure Serial Console Fix](images/MBT_Team2_VM.png)
-MBT_Team2_VM
+[MBT_Team2_VM](images/MBT_Team2_VM.png)
 
 Several core cloud administration tasks were performed:
 The VM was accessed through Remote Desktop Protocol (RDP).
 
-Access_through_RDP
+[Access_through_RDP](images/Access_through_RDP.png)
 
 Multiple connection issues (black screen, protocol errors 0x112f / 0x904) were identified and resolved using Azure Serial Console, proving successful troubleshooting skills.
 An Azure File Share was created, mounted on the VM, and tested with file operations (create, read, delete).
